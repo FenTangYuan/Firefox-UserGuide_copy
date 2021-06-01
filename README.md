@@ -7,3 +7,5 @@ The notes below are my collection of information on Firefox settings.
 - [Policies](doc/policies.md)
 - [Profiles](doc/profiles.md)
 - [Extensions](doc/extensions.md)
+
+https://github.com/DonQuixoteI/Firefox-UserGuide
